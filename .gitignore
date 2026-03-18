@@ -16,3 +16,11 @@ EQHadley_*.ini
 # IDE/Editor settings
 .vscode/
 .idea/
+
+# Generated Release Assets (Keep out of source code)
+*.gz
+*.zip
+
+# Generated Release Assets (Keep out of source code)
+*.gz
+*.zip
