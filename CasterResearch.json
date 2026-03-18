@@ -1,0 +1,101 @@
+[
+  {
+    "IsExpanded": true,
+    "Name": "Grokii Caster Research Master",
+    "Nodes": [
+      {
+        "IsExpanded": true,
+        "Name": "Wizard Research",
+        "Nodes": [
+          { "Name": "16 Pillar of Fire - Nagafen", "TriggerData": { "Pattern": "Rune of Nagafen", "TextToDisplay": "Rune of Nagafen (1/2 Pillar of Fire)", "TextToSpeak": "Rune of Nagafen", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Pillar of Fire - Proximity", "TriggerData": { "Pattern": "Rune of Proximity", "TextToDisplay": "Rune of Proximity (2/2 Pillar of Fire)", "TextToSpeak": "Rune of Proximity", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Project Lightning - Fulguration", "TriggerData": { "Pattern": "Rune of Fulguration", "TextToDisplay": "Rune of Fulguration (1/2 Project Lightning)", "TextToSpeak": "Rune of Fulguration", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Project Lightning - Periphery", "TriggerData": { "Pattern": "Rune of Periphery", "TextToDisplay": "Rune of Periphery (2/2 Project Lightning)", "TextToSpeak": "Rune of Periphery", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "20 Fire Spiral - Al'Kabor", "TriggerData": { "Pattern": "Rune of Al'Kabor", "TextToDisplay": "Rune of Al'Kabor (1/2 Fire Spiral)", "TextToSpeak": "Rune of Al'Kabor", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "20 Fire Spiral - Nagafen", "TriggerData": { "Pattern": "Rune of Nagafen", "TextToDisplay": "Rune of Nagafen (2/2 Fire Spiral)", "TextToSpeak": "Rune of Nagafen", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Cast Force - Disassociation", "TriggerData": { "Pattern": "Rune of Disassociation", "TextToDisplay": "Rune of Disassociation (1/2 Cast Force)", "TextToSpeak": "Rune of Disassociation", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Cast Force - Presence", "TriggerData": { "Pattern": "Rune of Presence", "TextToDisplay": "Rune of Presence (2/2 Cast Force)", "TextToSpeak": "Rune of Presence", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Column of Lightning - Trauma", "TriggerData": { "Pattern": "Rune of Trauma", "TextToDisplay": "Rune of Trauma (1/2 Column of Lightning)", "TextToSpeak": "Rune of Trauma", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Column of Lightning - Xegony", "TriggerData": { "Pattern": "Rune of Xegony", "TextToDisplay": "Rune of Xegony (2/2 Column of Lightning)", "TextToSpeak": "Rune of Xegony", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Lightning Storm - Karana", "TriggerData": { "Pattern": "Rune of Karana", "TextToDisplay": "Rune of Karana (1/2 Lightning Storm)", "TextToSpeak": "Rune of Karana", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Lightning Storm - Xegony", "TriggerData": { "Pattern": "Rune of Xegony", "TextToDisplay": "Rune of Xegony (2/2 Lightning Storm)", "TextToSpeak": "Rune of Xegony", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Energy Storm - Fulguration", "TriggerData": { "Pattern": "Rune of Fulguration", "TextToDisplay": "Rune of Fulguration (1/3 Energy Storm)", "TextToSpeak": "Rune of Fulguration", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Energy Storm - Karana", "TriggerData": { "Pattern": "Rune of Karana", "TextToDisplay": "Rune of Karana (2/3 Energy Storm)", "TextToSpeak": "Rune of Karana", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Energy Storm - Xegony", "TriggerData": { "Pattern": "Rune of Xegony", "TextToDisplay": "Rune of Xegony (3/3 Energy Storm)", "TextToSpeak": "Rune of Xegony", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Shock Spiral - Al'Kabor", "TriggerData": { "Pattern": "Rune of Al'Kabor", "TextToDisplay": "Rune of Al'Kabor (1/3 Shock Spiral)", "TextToSpeak": "Rune of Al'Kabor", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Shock Spiral - Helix", "TriggerData": { "Pattern": "Rune of the Helix", "TextToDisplay": "Rune of the Helix (2/3 Shock Spiral)", "TextToSpeak": "Rune of Helix", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Shock Spiral - Rallos Zek", "TriggerData": { "Pattern": "Rune of Rallos Zek", "TextToDisplay": "Rune of Rallos Zek (3/3 Shock Spiral)", "TextToSpeak": "Rune of Rallos Zek", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Circle of Force - Concussion", "TriggerData": { "Pattern": "Rune of Concussion", "TextToDisplay": "Rune of Concussion (1/3 Circle of Force)", "TextToSpeak": "Rune of Concussion", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Circle of Force - Banding", "TriggerData": { "Pattern": "Rune of Banding", "TextToDisplay": "Rune of Banding (2/3 Circle of Force)", "TextToSpeak": "Rune of Banding", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Circle of Force - Catalyst", "TriggerData": { "Pattern": "Rune of the Catalyst", "TextToDisplay": "Rune of the Catalyst (3/3 Circle of Force)", "TextToSpeak": "Rune of Catalyst", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Lava Storm - Concussion", "TriggerData": { "Pattern": "Rune of Concussion", "TextToDisplay": "Rune of Concussion (1/3 Lava Storm)", "TextToSpeak": "Rune of Concussion", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Lava Storm - Solusek Ro", "TriggerData": { "Pattern": "Rune of Solusek Ro", "TextToDisplay": "Rune of Solusek Ro (2/3 Lava Storm)", "TextToSpeak": "Rune of Solusek Ro", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Lava Storm - Cyclone", "TriggerData": { "Pattern": "Rune of the Cyclone", "TextToDisplay": "Rune of the Cyclone (3/3 Lava Storm)", "TextToSpeak": "Rune of Cyclone", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Thunderclap - Howling", "TriggerData": { "Pattern": "Rune of Howling", "TextToDisplay": "Rune of Howling (1/3 Thunderclap)", "TextToSpeak": "Rune of Howling", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Thunderclap - Contortion", "TriggerData": { "Pattern": "Rune of Contortion", "TextToDisplay": "Rune of Contortion (2/3 Thunderclap)", "TextToSpeak": "Rune of Contortion", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Thunderclap - Conception", "TriggerData": { "Pattern": "Rune of Conception", "TextToDisplay": "Rune of Conception (3/3 Thunderclap)", "TextToSpeak": "Rune of Conception", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "39 Force Spiral - Al'Kabor", "TriggerData": { "Pattern": "Rune of Al'Kabor", "TextToDisplay": "Rune of Al'Kabor (1/3 Force Spiral)", "TextToSpeak": "Rune of Al'Kabor", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "39 Force Spiral - Helix", "TriggerData": { "Pattern": "Rune of the Helix", "TextToDisplay": "Rune of the Helix (2/3 Force Spiral)", "TextToSpeak": "Rune of Helix", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "39 Force Spiral - Infraction", "TriggerData": { "Pattern": "Rune of Infraction", "TextToDisplay": "Rune of Infraction (3/3 Force Spiral)", "TextToSpeak": "Rune of Infraction", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "44 Gravity Flux - Rathe", "TriggerData": { "Pattern": "Rune of Rathe", "TextToDisplay": "Rune of Rathe (1/2 Gravity Flux)", "TextToSpeak": "Rune of Rathe", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "44 Gravity Flux - Attraction", "TriggerData": { "Pattern": "Rune of Attraction", "TextToDisplay": "Rune of Attraction (2/2 Gravity Flux)", "TextToSpeak": "Rune of Attraction", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Ice Comet - Frost", "TriggerData": { "Pattern": "Rune of Frost", "TextToDisplay": "Rune of Frost (1/2 Ice Comet)", "TextToSpeak": "Rune of Frost", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Ice Comet - Astral", "TriggerData": { "Pattern": "Rune of the Astral", "TextToDisplay": "Rune of the Astral (2/2 Ice Comet)", "TextToSpeak": "Rune of Astral", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Supernova - Astral", "TriggerData": { "Pattern": "Rune of the Astral", "TextToDisplay": "Rune of the Astral (1/2 Supernova)", "TextToSpeak": "Rune of Astral", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Supernova - Impetus", "TriggerData": { "Pattern": "Rune of Impetus", "TextToDisplay": "Rune of Impetus (2/2 Supernova)", "TextToSpeak": "Rune of Impetus", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Wrath of Al'Kabor - Concussion", "TriggerData": { "Pattern": "Rune of Concussion", "TextToDisplay": "Rune of Concussion (1/2 Wrath of Al'Kabor)", "TextToSpeak": "Rune of Concussion", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Wrath of Al'Kabor - Ap'Sagor", "TriggerData": { "Pattern": "Rune of Ap'Sagor", "TextToDisplay": "Rune of Ap'Sagor (2/2 Wrath of Al'Kabor)", "TextToSpeak": "Rune of Ap'Sagor", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+        ]
+      },
+      {
+        "IsExpanded": true,
+        "Name": "Necromancer Research",
+        "Nodes": [
+          { "Name": "16 Voice Graft - Possession", "TriggerData": { "Pattern": "Words of Possession", "TextToDisplay": "Words of Possession (1/2 Voice Graft)", "TextToSpeak": "Words of Possession", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Voice Graft - Spoken", "TriggerData": { "Pattern": "Words of the Spoken", "TextToDisplay": "Words of the Spoken (2/2 Voice Graft)", "TextToSpeak": "Words of Spoken", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Hungry Earth - Materials", "TriggerData": { "Pattern": "Words of Materials", "TextToDisplay": "Words of Materials (1/2 Hungry Earth)", "TextToSpeak": "Words of Materials", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "16 Hungry Earth - Spirit", "TriggerData": { "Pattern": "Words of the Spirit", "TextToDisplay": "Words of the Spirit (2/2 Hungry Earth)", "TextToSpeak": "Words of Spirit", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "20 Harmshield - Absorption", "TriggerData": { "Pattern": "Words of Absorption", "TextToDisplay": "Words of Absorption (1/2 Harmshield)", "TextToSpeak": "Words of Absorption", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "20 Harmshield - Refuge", "TriggerData": { "Pattern": "Words of Refuge", "TextToDisplay": "Words of Refuge (2/2 Harmshield)", "TextToSpeak": "Words of Refuge", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Intensify Death - Absorption", "TriggerData": { "Pattern": "Words of Absorption", "TextToDisplay": "Words of Absorption (1/3 Intensify Death)", "TextToSpeak": "Words of Absorption", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Intensify Death - Recluse", "TriggerData": { "Pattern": "Words of Recluse", "TextToDisplay": "Words of Recluse (2/3 Intensify Death)", "TextToSpeak": "Words of Recluse", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Intensify Death - Sentient Beza", "TriggerData": { "Pattern": "Words of the Sentient (Beza)", "TextToDisplay": "Words of Sentient Beza (3/3 Intensify Death)", "TextToSpeak": "Words of Sentient Beza", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Renew Bones - Purification", "TriggerData": { "Pattern": "Words of Purification", "TextToDisplay": "Words of Purification (1/3 Renew Bones)", "TextToSpeak": "Words of Purification", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Renew Bones - Acquisition Azia", "TriggerData": { "Pattern": "Words of Acquisition (Azia)", "TextToDisplay": "Words of Acquisition Azia (2/3 Renew Bones)", "TextToSpeak": "Words of Acquisition Azia", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Renew Bones - Incorporeal", "TriggerData": { "Pattern": "Words of the Incorporeal", "TextToDisplay": "Words of Incorporeal (3/3 Renew Bones)", "TextToSpeak": "Words of Incorporeal", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Call of Bones - Neglect", "TriggerData": { "Pattern": "Words of Neglect", "TextToDisplay": "Words of Neglect (1/3 Call of Bones)", "TextToSpeak": "Words of Neglect", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Call of Bones - Motion", "TriggerData": { "Pattern": "Words of Motion", "TextToDisplay": "Words of Motion (2/3 Call of Bones)", "TextToSpeak": "Words of Motion", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Call of Bones - Endurance", "TriggerData": { "Pattern": "Words of Endurance", "TextToDisplay": "Words of Endurance (3/3 Call of Bones)", "TextToSpeak": "Words of Endurance", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Surge of Enfeeblement - Abatement", "TriggerData": { "Pattern": "Words of Abatement", "TextToDisplay": "Words of Abatement (1/3 Surge of Enfeeblement)", "TextToSpeak": "Words of Abatement", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Surge of Enfeeblement - Cazic-Thule", "TriggerData": { "Pattern": "Words of Cazic-Thule", "TextToDisplay": "Words of Cazic-Thule (2/3 Surge of Enfeeblement)", "TextToSpeak": "Words of Cazic-Thule", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Surge of Enfeeblement - Efficacy", "TriggerData": { "Pattern": "Words of Efficacy", "TextToDisplay": "Words of Efficacy (3/3 Surge of Enfeeblement)", "TextToSpeak": "Words of Efficacy", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "44 Dead Man Floating - Burnishing", "TriggerData": { "Pattern": "Words of Burnishing", "TextToDisplay": "Words of Burnishing (1/2 DMF)", "TextToSpeak": "Words of Burnishing", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "44 Dead Man Floating - Psyche", "TriggerData": { "Pattern": "Words of the Psyche", "TextToDisplay": "Words of Psyche (2/2 DMF)", "TextToSpeak": "Words of Psyche", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Invoke Death - Acquisition Beza", "TriggerData": { "Pattern": "Words of Acquisition (Beza)", "TextToDisplay": "Words of Acquisition Beza (1/2 Invoke Death)", "TextToSpeak": "Words of Acquisition Beza", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Invoke Death - Requisition", "TriggerData": { "Pattern": "Words of Requisition", "TextToDisplay": "Words of Requisition (2/2 Invoke Death)", "TextToSpeak": "Words of Requisition", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Lich - Ethereal", "TriggerData": { "Pattern": "Words of the Ethereal", "TextToDisplay": "Words of Ethereal (Lich)", "TextToSpeak": "Words of Ethereal", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Paralyzing Earth - Crippling Force", "TriggerData": { "Pattern": "Words of Crippling Force", "TextToDisplay": "Words of Crippling Force (Paralyzing Earth)", "TextToSpeak": "Words of Crippling Force", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+        ]
+      },
+      {
+        "IsExpanded": true,
+        "Name": "Enchanter Research",
+        "Nodes": [
+          { "Name": "16 Mesmerization - Pg 26", "TriggerData": { "Pattern": "Tasarin's Grimoire Pg. 26", "TextToDisplay": "Grimoire Pg. 26 (Mesmerization)", "TextToSpeak": "Grimoire Page 26", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "20 Color Shift - Pg 312", "TriggerData": { "Pattern": "Tasarin's Grimoire Pg. 312", "TextToDisplay": "Grimoire Pg. 312 (Color Shift)", "TextToSpeak": "Grimoire Page 312", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Tepid Deeds - Tome 8", "TriggerData": { "Pattern": "Velishoul's Tome Pg. 8", "TextToDisplay": "Tome Pg. 8 (Tepid Deeds)", "TextToSpeak": "Tome Page 8", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Tepid Deeds - Tome 9", "TriggerData": { "Pattern": "Velishoul's Tome Pg. 9", "TextToDisplay": "Tome Pg. 9 (Tepid Deeds)", "TextToSpeak": "Tome Page 9", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "24 Strip Enchantment - Pg 390", "TriggerData": { "Pattern": "Tasarin's Grimoire Pg. 390", "TextToDisplay": "Grimoire Pg. 390 (Strip Enchantment)", "TextToSpeak": "Grimoire Page 390", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Feedback - Tome 108", "TriggerData": { "Pattern": "Velishoul's Tome Pg. 108", "TextToDisplay": "Tome Pg. 108 (Feedback)", "TextToSpeak": "Tome Page 108", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Feedback - Tome 109", "TriggerData": { "Pattern": "Velishoul's Tome Pg. 109", "TextToDisplay": "Tome Pg. 109 (Feedback)", "TextToSpeak": "Tome Page 109", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "29 Insipid Weakness - Pg 60", "TriggerData": { "Pattern": "Salil's Writ Pg. 60", "TextToDisplay": "Writ Pg. 60 (Insipid Weakness)", "TextToSpeak": "Writ Page 60", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "34 Mana Sieve - Pg 90", "TriggerData": { "Pattern": "Salil's Writ Pg. 90", "TextToDisplay": "Writ Pg. 90 (Mana Sieve)", "TextToSpeak": "Writ Page 90", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Allure - Pg 378", "TriggerData": { "Pattern": "Nilitim's Grimoire Pg. 378", "TextToDisplay": "Grimoire Pg. 378 (1/2 Allure)", "TextToSpeak": "Grimoire 378", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Allure - Pg 379", "TriggerData": { "Pattern": "Nilitim's Grimoire Pg. 379", "TextToDisplay": "Grimoire Pg. 379 (2/2 Allure)", "TextToSpeak": "Grimoire 379", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Paralyzing Earth - Pg 400", "TriggerData": { "Pattern": "Nilitim's Grimoire Pg. 400", "TextToDisplay": "Grimoire Pg. 400 (1/2 Paralyzing Earth)", "TextToSpeak": "Grimoire 400", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+          { "Name": "49 Paralyzing Earth - Pg 401", "TriggerData": { "Pattern": "Nilitim's Grimoire Pg. 401", "TextToDisplay": "Grimoire Pg. 401 (2/2 Paralyzing Earth)", "TextToSpeak": "Grimoire 401", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+        ]
+      }
+    ]
+  }
+]
