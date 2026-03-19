@@ -1,0 +1,144 @@
+[
+  {
+    "IsExpanded": true,
+    "Name": "Beastlord Twilight Quests",
+    "Nodes": [
+      {
+        "IsExpanded": true,
+        "Name": "Tamben Prinon",
+        "Nodes": [
+          {
+            "IsExpanded": true,
+            "Name": "Feral Cap",
+            "Nodes": [
+              { "Name": "Sun Jewel", "TriggerData": { "Pattern": "Sun Jewel", "TextToDisplay": "Sun Jewel (1/4 Feral Cap)", "TextToSpeak": "Sun Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Feral Spirits", "TriggerData": { "Pattern": "Mark of Feral Spirits", "TextToDisplay": "Mark of Feral Spirits (2/4 Feral Cap)", "TextToSpeak": "Mark of Feral Spirits", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Copper Figurine", "TriggerData": { "Pattern": "Embedded Copper Figurine", "TextToDisplay": "Embedded Copper Figurine (3/4 Feral Cap)", "TextToSpeak": "Embedded Copper Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Frosted Stone", "TriggerData": { "Pattern": "Frosted Stone", "TextToDisplay": "Frosted Stone (4/4 Feral Cap)", "TextToSpeak": "Frosted Stone", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Tunic",
+            "Nodes": [
+              { "Name": "Moon Jewel", "TriggerData": { "Pattern": "Moon Jewel", "TextToDisplay": "Moon Jewel (1/4 Feral Tunic)", "TextToSpeak": "Moon Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Animal Spirits", "TriggerData": { "Pattern": "Mark of Animal Spirits", "TextToDisplay": "Mark of Animal Spirits (2/4 Feral Tunic)", "TextToSpeak": "Mark of Animal Spirits", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Silver Gilded Bracelet", "TriggerData": { "Pattern": "Silver Gilded Bracelet", "TextToDisplay": "Silver Gilded Bracelet (3/4 Feral Tunic)", "TextToSpeak": "Silver Gilded Bracelet", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Mithril Figurine", "TriggerData": { "Pattern": "Embedded Mithril Figurine", "TextToDisplay": "Embedded Mithril Figurine (4/4 Feral Tunic)", "TextToSpeak": "Embedded Mithril Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Sleeves",
+            "Nodes": [
+              { "Name": "Star Jewel", "TriggerData": { "Pattern": "Star Jewel", "TextToDisplay": "Star Jewel (1/4 Feral Sleeves)", "TextToSpeak": "Star Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Clay Figurine", "TriggerData": { "Pattern": "Embedded Clay Figurine", "TextToDisplay": "Embedded Clay Figurine (2/4 Feral Sleeves)", "TextToSpeak": "Embedded Clay Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Wild Spirits", "TriggerData": { "Pattern": "Mark of Wild Spirits", "TextToDisplay": "Mark of Wild Spirits (3/4 Feral Sleeves)", "TextToSpeak": "Mark of Wild Spirits", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Furrowed Carving", "TriggerData": { "Pattern": "Furrowed Carving", "TextToDisplay": "Furrowed Carving (4/4 Feral Sleeves)", "TextToSpeak": "Furrowed Carving", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Leggings",
+            "Nodes": [
+              { "Name": "Cloud Jewel", "TriggerData": { "Pattern": "Cloud Jewel", "TextToDisplay": "Cloud Jewel (1/4 Feral Leggings)", "TextToSpeak": "Cloud Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Natural Spirits", "TriggerData": { "Pattern": "Mark of Natural Spirits", "TextToDisplay": "Mark of Natural Spirits (2/4 Feral Leggings)", "TextToSpeak": "Mark of Natural Spirits", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Stone Figurine", "TriggerData": { "Pattern": "Embedded Stone Figurine", "TextToDisplay": "Embedded Stone Figurine (3/4 Feral Leggings)", "TextToSpeak": "Embedded Stone Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Blue Moonstone", "TriggerData": { "Pattern": "Blue Moonstone", "TextToDisplay": "Blue Moonstone (4/4 Feral Leggings)", "TextToSpeak": "Blue Moonstone", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Mantle",
+            "Nodes": [
+              { "Name": "Sky Jewel", "TriggerData": { "Pattern": "Sky Jewel", "TextToDisplay": "Sky Jewel (1/3 Feral Mantle)", "TextToSpeak": "Sky Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Wilderness", "TriggerData": { "Pattern": "Mark of Wilderness", "TextToDisplay": "Mark of Wilderness (2/3 Feral Mantle)", "TextToSpeak": "Mark of Wilderness", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Platinum Figurine", "TriggerData": { "Pattern": "Embedded Platinum Figurine", "TextToDisplay": "Embedded Platinum Figurine (3/3 Feral Mantle)", "TextToSpeak": "Embedded Platinum Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Bracer",
+            "Nodes": [
+              { "Name": "Meteor Jewel", "TriggerData": { "Pattern": "Meteor Jewel", "TextToDisplay": "Meteor Jewel (1/3 Feral Bracer)", "TextToSpeak": "Meteor Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Animal Training", "TriggerData": { "Pattern": "Mark of Animal Training", "TextToDisplay": "Mark of Animal Training (2/3 Feral Bracer)", "TextToSpeak": "Mark of Animal Training", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Brass Figurine", "TriggerData": { "Pattern": "Embedded Brass Figurine", "TextToDisplay": "Embedded Brass Figurine (3/3 Feral Bracer)", "TextToSpeak": "Embedded Brass Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Boots",
+            "Nodes": [
+              { "Name": "Astral Jewel", "TriggerData": { "Pattern": "Astral Jewel", "TextToDisplay": "Astral Jewel (1/3 Feral Boots)", "TextToSpeak": "Astral Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of Beast Mastery", "TriggerData": { "Pattern": "Mark of Beast Mastery", "TextToDisplay": "Mark of Beast Mastery (2/3 Feral Boots)", "TextToSpeak": "Mark of Beast Mastery", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Gold Figurine", "TriggerData": { "Pattern": "Embedded Gold Figurine", "TextToDisplay": "Embedded Gold Figurine (3/3 Feral Boots)", "TextToSpeak": "Embedded Gold Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          }
+        ]
+      },
+      {
+        "IsExpanded": true,
+        "Name": "Jilan Tollun",
+        "Nodes": [
+          {
+            "IsExpanded": true,
+            "Name": "Feral Belt",
+            "Nodes": [
+              { "Name": "Sky Jewel", "TriggerData": { "Pattern": "Sky Jewel", "TextToDisplay": "Sky Jewel (1/4 Feral Belt)", "TextToSpeak": "Sky Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Steel Figurine", "TriggerData": { "Pattern": "Embedded Steel Figurine", "TextToDisplay": "Embedded Steel Figurine (2/4 Feral Belt)", "TextToSpeak": "Embedded Steel Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Wolf", "TriggerData": { "Pattern": "Mark of the Wolf", "TextToDisplay": "Mark of the Wolf (3/4 Feral Belt)", "TextToSpeak": "Mark of the Wolf", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Ancient Wrappings", "TriggerData": { "Pattern": "Ancient Wrappings", "TextToDisplay": "Ancient Wrappings (4/4 Feral Belt)", "TextToSpeak": "Ancient Wrappings", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Cape",
+            "Nodes": [
+              { "Name": "Moon Jewel", "TriggerData": { "Pattern": "Moon Jewel", "TextToDisplay": "Moon Jewel (1/4 Feral Cape)", "TextToSpeak": "Moon Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Panther", "TriggerData": { "Pattern": "Mark of the Panther", "TextToDisplay": "Mark of the Panther (2/4 Feral Cape)", "TextToSpeak": "Mark of the Panther", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Iridescent Crystal", "TriggerData": { "Pattern": "Iridescent Crystal", "TextToDisplay": "Iridescent Crystal (3/4 Feral Cape)", "TextToSpeak": "Iridescent Crystal", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Bronze Figurine", "TriggerData": { "Pattern": "Embedded Bronze Figurine", "TextToDisplay": "Embedded Bronze Figurine (4/4 Feral Cape)", "TextToSpeak": "Embedded Bronze Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Claws",
+            "Nodes": [
+              { "Name": "Meteor Jewel", "TriggerData": { "Pattern": "Meteor Jewel", "TextToDisplay": "Meteor Jewel (1/4 Feral Claws)", "TextToSpeak": "Meteor Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Bestial", "TriggerData": { "Pattern": "Mark of the Bestial", "TextToDisplay": "Mark of the Bestial (2/4 Feral Claws)", "TextToSpeak": "Mark of the Bestial", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Admantium Figurine", "TriggerData": { "Pattern": "Embedded Admantium Figurine", "TextToDisplay": "Embedded Admantium Figurine (3/4 Feral Claws)", "TextToSpeak": "Embedded Admantium Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Roaring Idol", "TriggerData": { "Pattern": "Roaring Idol", "TextToDisplay": "Roaring Idol (4/4 Feral Claws)", "TextToSpeak": "Roaring Idol", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Gloves",
+            "Nodes": [
+              { "Name": "Star Jewel", "TriggerData": { "Pattern": "Star Jewel", "TextToDisplay": "Star Jewel (1/3 Feral Gloves)", "TextToSpeak": "Star Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Alligator", "TriggerData": { "Pattern": "Mark of the Alligator", "TextToDisplay": "Mark of the Alligator (2/3 Feral Gloves)", "TextToSpeak": "Mark of the Alligator", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Electrum Figurine", "TriggerData": { "Pattern": "Embedded Electrum Figurine", "TextToDisplay": "Embedded Electrum Figurine (3/3 Feral Gloves)", "TextToSpeak": "Embedded Electrum Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Talisman",
+            "Nodes": [
+              { "Name": "Cloud Jewel", "TriggerData": { "Pattern": "Cloud Jewel", "TextToDisplay": "Cloud Jewel (1/3 Feral Talisman)", "TextToSpeak": "Cloud Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Shark", "TriggerData": { "Pattern": "Mark of the Shark", "TextToDisplay": "Mark of the Shark (2/3 Feral Talisman)", "TextToSpeak": "Mark of the Shark", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Silver Figurine", "TriggerData": { "Pattern": "Embedded Silver Figurine", "TextToDisplay": "Embedded Silver Figurine (3/3 Feral Talisman)", "TextToSpeak": "Embedded Silver Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          },
+          {
+            "IsExpanded": true,
+            "Name": "Feral Veil",
+            "Nodes": [
+              { "Name": "Sun Jewel", "TriggerData": { "Pattern": "Sun Jewel", "TextToDisplay": "Sun Jewel (1/3 Feral Veil)", "TextToSpeak": "Sun Jewel", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Mark of the Tiger", "TriggerData": { "Pattern": "Mark of the Tiger", "TextToDisplay": "Mark of the Tiger (2/3 Feral Veil)", "TextToSpeak": "Mark of the Tiger", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } },
+              { "Name": "Embedded Wooden Figurine", "TriggerData": { "Pattern": "Embedded Wooden Figurine", "TextToDisplay": "Embedded Wooden Figurine (3/3 Feral Veil)", "TextToSpeak": "Embedded Wooden Figurine", "Priority": 3, "DurationSeconds": 0.2, "UseRegex": false } }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
